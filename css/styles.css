@@ -12,16 +12,26 @@ body{
 
 header {
   background-color: #EB6528;
+  color:black;
   border-radius: 10px;
+  position: relative;
+  top: 30px;
+
 }
 h1 {
-  text-align: left;
+  text-align: center;
+  vertical-align: center;
   font-size: 50px;
-  margin: 20px 20px 20px 0px;
+  margin: 20px 20px 20px 20px;
 }
 
 div div {
+  text-align: center;
+  vertical-align: center;
   font-size: 20px;
+  padding: 0 0 40px 0;
+
+
   
 }
 
@@ -32,10 +42,15 @@ div div {
 article {
   background-color: #9E332E;
   border-radius: 10px;
+  position: relative;
+  top: 30px;
 }
 
 section h2 {
   font-size: 30px;
+  font-style: bold;
+  color:#EB6528;
+  text-align: center;
 }
 
 section li {
@@ -43,8 +58,15 @@ section li {
 }
 
 .ewu {
-  font-size: 20px;
+  text-align: center;
+  font-size: 25px;
+  color:#FFCA50;
 }
+
+p .fuck {
+  color: white;
+}
+
 
 
 /*experience*/
@@ -52,12 +74,20 @@ section li {
 footer {
   background-color: #FFCA50;
   border-radius: 10px;
+  position: relative;
+  top: 30px;
 
 }
+
+ul {
+   list-style-type: none;
+}
+
 
 footer li{
   font-size: 20px;
   magin:20px;
+
 }
 
 .experience {

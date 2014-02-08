@@ -53,7 +53,7 @@ section h2 {
   text-align: center;
 }
 
-section li {
+article section li {
   font-size: 20px
 }
 
@@ -63,9 +63,6 @@ section li {
   color:#FFCA50;
 }
 
-p .fuck {
-  color: white;
-}
 
 
 
@@ -86,17 +83,22 @@ ul {
 
 footer li{
   font-size: 20px;
-  magin:20px;
+  
 
 }
 
 .experience {
   font-size: 30px;
+  color:#9E332E;
+  position: relative;
+  left: 40px;
 }
 
 
 footer h3 {
   font-size: 20px;
+  position: relative;
+  left: 40px;
 }
 
 

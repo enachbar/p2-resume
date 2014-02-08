@@ -1,0 +1,52 @@
+
+body{
+  font-family: "Alef";
+}
+
+
+
+
+
+/*name and address*/
+h1 {
+  text-align: left;
+  font-size: 50px;
+  margin: 20px 20px 20px 0px;
+}
+
+div div {
+  font-size: 20px;
+  
+}
+
+
+
+/*skills and education*/
+
+section h2 {
+  font-size: 30px;
+}
+
+section li {
+  font-size: 20px
+}
+
+.ewu {
+  font-size: 20px;
+}
+
+
+/*experience*/
+footer li{
+  font-size: 20px;
+  magin:20px;
+}
+
+.experience {
+  font-size: 30px;
+}
+
+
+footer h3 {
+  font-size: 20px;
+}

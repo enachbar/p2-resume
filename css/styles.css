@@ -1,5 +1,6 @@
 
 body{
+  background-color: #4D1B2F;
   font-family: "Alef";
 }
 
@@ -8,6 +9,10 @@ body{
 
 
 /*name and address*/
+
+header {
+  background-color: #EB6528;
+}
 h1 {
   text-align: left;
   font-size: 50px;
@@ -23,6 +28,10 @@ div div {
 
 /*skills and education*/
 
+article {
+  background-color: #9E332E;
+}
+
 section h2 {
   font-size: 30px;
 }
@@ -37,6 +46,11 @@ section li {
 
 
 /*experience*/
+
+footer {
+  background-color: #FFCA50;
+}
+
 footer li{
   font-size: 20px;
   magin:20px;

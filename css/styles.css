@@ -12,6 +12,7 @@ body{
 
 header {
   background-color: #EB6528;
+  border-radius: 10px;
 }
 h1 {
   text-align: left;
@@ -30,6 +31,7 @@ div div {
 
 article {
   background-color: #9E332E;
+  border-radius: 10px;
 }
 
 section h2 {
@@ -49,6 +51,8 @@ section li {
 
 footer {
   background-color: #FFCA50;
+  border-radius: 10px;
+
 }
 
 footer li{

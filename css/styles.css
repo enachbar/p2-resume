@@ -1,6 +1,6 @@
 
 body{
-  background-color: #4D1B2F;
+  background-image: url(../img/grilled.png);
   font-family: "Alef";
 }
 
@@ -12,7 +12,7 @@ body{
 
 header {
   background-color: #EB6528;
-  color:black;
+  color:#4D1B2F;
   border-radius: 10px;
   position: relative;
   top: 30px;
@@ -54,6 +54,7 @@ section h2 {
 }
 
 article section li {
+
   font-size: 20px
 }
 
@@ -114,4 +115,5 @@ footer h3 {
 
  footer div {
   margin-top: 100px;
+  padding-bottom: 50px;
 }

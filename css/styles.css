@@ -54,7 +54,7 @@ section h2 {
 }
 
 article section li {
-
+  
   font-size: 20px
 }
 
@@ -115,5 +115,4 @@ footer h3 {
 
  footer div {
   margin-top: 100px;
-  padding-bottom: 50px;
 }

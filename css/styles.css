@@ -58,12 +58,17 @@ article section li {
 }
 
 .ewu {
-  text-align: center;
+  text-align: left;
   font-size: 25px;
   color:#FFCA50;
+  position: relative;
+  left:35px;
 }
 
-
+span {
+  font-size: 25px;
+  color:black;
+}
 
 
 /*experience*/
@@ -83,6 +88,8 @@ ul {
 
 footer li{
   font-size: 20px;
+  color:#EB6528;
+  width:500px;
   
 
 }
@@ -95,8 +102,11 @@ footer li{
 }
 
 
+
+
 footer h3 {
   font-size: 20px;
+  font-style: italic;
   position: relative;
   left: 40px;
 }

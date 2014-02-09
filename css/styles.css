@@ -47,7 +47,6 @@ article {
 }
 
 section h2 {
-  text-align: center;
   font-size: 30px;
   font-style: bold;
   color:#EB6528;
@@ -63,8 +62,7 @@ article section li {
   text-align: center;
   font-size: 25px;
   color:#FFCA50;
-  position: relative;
-  left:35px;
+  
 }
 
 span {
